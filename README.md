@@ -1,6 +1,6 @@
 # 한밭대학교 유성 리빙랩 - 온결팀
 > **종량제 봉투 지급 효율화 프로그램 (B팀)**
-주기적으로 수행되는 **종량제 봉투 지급 대상자 명단 관리**를 자동화하여 **행정 효율성 향상 + 인력 부담 감소**를 목표로 합니다.
+주기적으로 수행되는 **종량제 봉투 지급 대상자 명단 관리**를 자동화하여 **행정 효율성 향상 + 인력 부담 감소**를 목표로 함
 
 
 
@@ -14,52 +14,63 @@
 
 <br>
 
-## <u>Teamate</u> Project Background
+## 목차
+- [01. 프로젝트 개요](#teamateproject-background)
+- [02. 시스템 설계](#system-design)
+  - [1) 기술 스택](#tech-stack)
+  - [2) 플로우 차트](#flow-chart)
+- [03. 결론 및 기대효과](#conclusion)
 
-### 필요성
+## 01. TeamateProject Background
+
+### 배경
   - 행정복지센터에서는 **분기별로 종량제 봉투를 일괄 지급** 업무를 수행해야함
-  - 대상자 정보(주소·세대 정보)를 수작업으로 정리 → **시간 소요 + 오류 발생 위험**
-  - 정리 기준이 통일되어 있지 않아 **데이터 표준화 미비**
+  - 대상자 정보(주소·세대원 수)를 수작업으로 조회
   - 반복적인 행정처리 업무로 인한 **업무 부담 증가**
-### 기존 해결책의 문제점
-  - Excel 기반 관리
-      - 주소 형식 제각각 → 검색/처리 비효율
-      - 세대 수 기준으로 대상 구분 시 많은 수작업 필요
-      - 중복 여부 판단 어려움 → 오투입 가능
+### 문제점
+  - 업무 효율성 저하
+    - 단순 조회 업무를 수작업으로 하기 때문에, 업무 효율성이 저하됨
   - 자동화 시스템 부재
-      - **업무 효율 낮음 + 담당자 난이도↑**
+    - 행정망 특성상 개발자 모드를 통한 일반적인 매크로 시스템 도입이 어려움
+    
 
-  
-## System Design
+<br>
+
+## 02. System Design
+> 본 프로젝트는 **OpneCV**와 **PyautoGUI**를 기반으로 이미지 인식 기반 매크로를 구현한다.
 
 ### Tech Stack
+
+#### 1) 핵심 기술
+<img
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,opencv,pandas,deepseek"
+    />
+
+#### 2) 기술 소개
 |**구분**|**목적**|
-|-------|-------|
+|:--:|:--:|
 |OCR|DeepSeek-OCR (7B) |
 |GUI 자동화| PyAutoGUI |
 |이미지 처리|OpenCV, Pillow|
 |데이터 처리|pandasm openpyxl|
 |GUI|Tkinter|
 |패키징|Pyinstaller|
+
+#### 3) 사용 툴
+<img
+      src="https://go-skill-icons.vercel.app/api/icons?i=notion,figma,mermaid	,huggingface,git,github"
+    />
 <br>
-
-### Flow Chart
-
-
-## Case Study
-
-### Description
-|산출물|내용|
-|---|---|
-|데스크탑 응용 프로그램|Excel→정제→Excel 구조|
-|정제 모듈|주소 표준화 / 중복 제거|
-|OCR 모듈|서식 이미지 입력 시 텍스트 변환|
-|GUI|Tkinter 기반|
-|실행 파일|PyInstaller 패키징 (.exe)|
 
 ---
 
-## Conclusion
+
+### Flow Chart
+![flowchart](./004%20images/flowchart.png)
+
+<br>
+
+## 03. Conclusion
 > 본 프로그램은 **종량제 봉투 지급 대상자 명단 관리 자동화**를 통해 행정 담당자의 업무부담을 줄이고, 지급 정확도와 효율성을 높이는 것을 목표로 한다.
 
 ### 기대효과
