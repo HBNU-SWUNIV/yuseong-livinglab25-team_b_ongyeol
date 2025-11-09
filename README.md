@@ -68,6 +68,9 @@
 ### Flow Chart
 ![flowchart](./004%20images/flowchart.png)
 
+### 실행 화면
+![window](./004%20images/active_window.png)
+
 <br>
 
 ## 03. Conclusion
