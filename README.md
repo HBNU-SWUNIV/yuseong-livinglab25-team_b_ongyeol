@@ -19,6 +19,7 @@
 - [02. 시스템 설계](#system-design)
   - [1) 기술 스택](#tech-stack)
   - [2) 플로우 차트](#flow-chart)
+  - [3) 실행 화면](#실행-화면)
 - [03. 결론 및 기대효과](#conclusion)
 
 ## 01. TeamateProject Background
