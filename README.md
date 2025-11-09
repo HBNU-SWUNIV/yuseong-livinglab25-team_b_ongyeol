@@ -34,7 +34,6 @@
     - 행정망 특성상 개발자 모드를 통한 일반적인 매크로 시스템 도입이 어려움
     
 
-<br>
 
 ## 02. System Design
 > 본 프로젝트는 **OpneCV**와 **PyautoGUI**를 기반으로 이미지 인식 기반 매크로를 구현한다.
@@ -52,7 +51,7 @@
 |OCR|DeepSeek-OCR (7B) |
 |GUI 자동화| PyAutoGUI |
 |이미지 처리|OpenCV, Pillow|
-|데이터 처리|pandasm openpyxl|
+|데이터 처리|pandas, openpyxl|
 |GUI|Tkinter|
 |패키징|Pyinstaller|
 
