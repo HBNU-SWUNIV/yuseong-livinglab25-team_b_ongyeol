@@ -37,7 +37,7 @@
 
 
 ## 02. System Design
-> 본 프로젝트는 **OpneCV**와 **PyautoGUI**를 기반으로 이미지 인식 기반 매크로를 구현한다.
+> 본 프로젝트는 **OpenCV**와 **PyautoGUI**를 기반으로 이미지 인식 기반 매크로를 구현한다.
 
 ### Tech Stack
 
