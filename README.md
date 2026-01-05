@@ -23,7 +23,7 @@
 - [03. 결론 및 기대효과](#conclusion)
 - [04. 발표 자료](#presentation)
 
-## 01. TeamateProject Background
+## TeamateProject Background
 
 ### 배경
   - 행정복지센터에서는 **분기별로 종량제 봉투를 일괄 지급** 업무를 수행해야 함
@@ -37,17 +37,17 @@
     
 
 
-## 02. System Design
+## System Design
 > 본 프로젝트는 **OpenCV**와 **PyautoGUI**를 기반으로 이미지 인식 기반 매크로를 구현한다.
 
 ### 1) Tech Stack
 
-#### (1) 핵심 기술
+#### 1) 핵심 기술
 <img
       src="https://go-skill-icons.vercel.app/api/icons?i=python,opencv,pandas"
     />
 
-#### (2) 기술 소개
+#### 2) 기술 소개
 |**구분**|**목적**|
 |:--:|:--:|
 |GUI 자동화| PyAutoGUI |
@@ -56,7 +56,7 @@
 |GUI|Tkinter|
 |패키징|Pyinstaller|
 
-#### (3) 사용 툴
+#### 3) 사용 툴
 <img
       src="https://go-skill-icons.vercel.app/api/icons?i=notion,figma,mermaid,huggingface,git,github"
     />
@@ -66,15 +66,15 @@
 ---
 
 
-### 2) Flow Chart
+### Flow Chart
 ![flowchart](./004%20images/flowchart.png)
 
-### 3) 실행 화면
+### 실행 화면
 ![window](./004%20images/active_window.png)
 
 <br>
 
-## 03. Conclusion
+## Conclusion
 > 본 프로그램은 **종량제 봉투 지급 대상자 명단 관리 자동화**를 통해 행정 담당자의 업무 부담을 줄이고, 지급 업무의 정확성과 효율성을 높이는 것을 목표로 한다.
 
 ### 기대효과
@@ -83,7 +83,7 @@
 - 데이터 구조 표준화
 - 행정 신뢰도 향상
 
-## 04. Presentation
+## Presentation
 
 ### 2차 워크숍 발표자료
 [발표자료 바로가기](./002%20Presentation/유성구청리빙랩_온결_2차%20워크숍%20발표자료.pdf)  
