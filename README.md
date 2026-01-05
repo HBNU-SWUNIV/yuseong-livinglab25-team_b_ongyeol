@@ -43,16 +43,15 @@
 
 #### 1) 핵심 기술
 <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=python,opencv,pandas,deepseek"
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,opencv,pandas, pyautogui"
     />
 
 #### 2) 기술 소개
 |**구분**|**목적**|
 |:--:|:--:|
-|OCR|DeepSeek-OCR (7B) |
 |GUI 자동화| PyAutoGUI |
-|이미지 처리|OpenCV, Pillow|
-|데이터 처리|pandas, openpyxl|
+|이미지 처리|OpenCV|
+|데이터 처리|pandas|
 |GUI|Tkinter|
 |패키징|Pyinstaller|
 
@@ -75,7 +74,7 @@
 <br>
 
 ## 03. Conclusion
-> 본 프로그램은 **종량제 봉투 지급 대상자 명단 관리 자동화**를 통해 행정 담당자의 업무부담을 줄이고, 지급 정확도와 효율성을 높이는 것을 목표로 한다.
+> 본 프로그램은 **종량제 봉투 지급 대상자 명단 관리 자동화**를 통해 행정 담당자의 업무부담을 줄이고, 지급 업무의 정확성과 효율성을 높이는 것을 목표로 한다.
 
 ### 기대효과
 - 수작업 시간 절감
