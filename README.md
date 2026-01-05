@@ -43,7 +43,7 @@
 
 #### 1) 핵심 기술
 <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=python,opencv,pandas"
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,opencv,pandas,pyautogui"
     />
 
 #### 2) 기술 소개
