@@ -2,12 +2,12 @@
 ## 유성 리빙랩 
   - 중간발표자료
     > [발표자료 바로가기](유성구청리빙랩_온결_중간발표자료.pdf)<br/>
-![cover](./004%20images/cover1.png)
+![cover](../004%20images/cover1.png)
 
   - 2차 워크숍 발표자료
-    > [발표자료 바로가기](유성구청리빙랩_2차_워크숍_발표자료.pdf)<br/>
-![cover](./004%20images/cover2.png)
+    > [발표자료 바로가기](유성구청리빙랩_온결_2차_워크숍_발표자료.pdf)<br/>
+![cover](../004%20images/cover2.png)
 
   - 최종발표자료
     > [발표자료 바로가기](유성구청리빙랩_최종발표자료.pdf)<br/>
-![cover](./004%20images/cover3.png)
+![cover](../004%20images/cover3.png)
