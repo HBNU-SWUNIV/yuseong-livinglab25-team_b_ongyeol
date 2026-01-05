@@ -83,11 +83,19 @@
 - 행정 신뢰도 향상
 
 
-> [발표자료 바로가기](./002 Presentation/유성구청리빙랩_온결_2차 워크숍 발표자료)<br/>
-![cover](./004 images/cover2.png)
+### 2차 워크숍 발표자료
+[발표자료 바로가기](./002%20Presentation/유성구청리빙랩_온결_2차%20워크숍%20발표자료.pdf)  
+![cover](./004%20images/cover2.png)
 
-> [발표자료 바로가기](./002 Presentation/유성구청리빙랩_온결_중간발표자료)<br/>
-![cover](./004 images/cover1.png)
+---
 
-> [발표자료 바로가기](./002 Presentation/유성구청리빙랩_온결_최종발표자료)<br/>
-![cover](./004 images/cover3.png)
+### 중간 발표자료
+[발표자료 바로가기](./002%20Presentation/유성구청리빙랩_온결_중간발표자료.pdf)  
+![cover](./004%20images/cover1.png)
+
+---
+
+### 최종 발표자료
+[발표자료 바로가기](./002%20Presentation/유성구청리빙랩_온결_최종발표자료.pdf)  
+![cover](./004%20images/cover3.png)
+
