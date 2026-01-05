@@ -86,7 +86,7 @@
 ## Presentation
 
 ### 2차 워크숍 발표자료
-[발표자료 바로가기](./002%20Presentation/유성구청리빙랩_온결_2차%20워크숍%20발표자료.pdf)  
+[발표자료 바로가기](./002%20Presentation/유성구청리빙랩_온결_2차_워크숍_발표자료.pdf)  
 ![cover](./004%20images/cover2.png)
 
 ---
