@@ -66,7 +66,7 @@
 ---
 
 
-### 2) 플로우 차트
+### 2) Flow Chart
 ![flowchart](./004%20images/flowchart.png)
 
 ### 3) 실행 화면
