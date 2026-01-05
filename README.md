@@ -58,7 +58,7 @@
 
 #### 3) 사용 툴
 <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=notion,figma,mermaid,huggingface,git,github"
+      src="https://go-skill-icons.vercel.app/api/icons?i=notion,figma,mermaid,git,github"
     />
 
 <br>
